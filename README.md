@@ -2,6 +2,8 @@
 
 Visite o projeto em clicando [aqui](https://clarareis.github.io/Shoping-cart-project/)
 
+OBS: Está em construção a melhora do CSS deste projeto
+
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
@@ -28,8 +30,6 @@ Visite o projeto em clicando [aqui](https://clarareis.github.io/Shoping-cart-pro
   * ~~Adicionar um texto de `carregando` durante uma requisição à API~~ *(Não realizado)*;
    
   * Desenvolvimento de testes, cobrindo 100% da aplicação total;
-  
-  OBS: Está em construção a melhora do CSS deste projeto
 
 </details>
 
