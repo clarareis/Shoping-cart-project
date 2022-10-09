@@ -1,5 +1,7 @@
 # Boas-vindas ao repositório do projeto Carrinho de Compras!
 
+Visite o projeto em clicando [aqui](https://clarareis.github.io/Shoping-cart-project/)
+
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
